@@ -1,1 +1,1 @@
-# surface-defects-detection-in-pcb-ui
+# TKinter based UI for surface defects detection in PCB 
